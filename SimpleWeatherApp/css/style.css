@@ -1,0 +1,39 @@
+figure > img {
+    display: block;
+    margin: auto;
+    width: 40%;
+}
+
+.hidden {
+    display: none;
+}
+
+header {
+    text-align: center;
+    color: white;
+    background-color: #54acd4;
+    font-size: 3em;
+    padding: 10px;
+    margin: 80px 0px;
+    border: black solid 2px;
+}
+
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #797674
+}
+
+div#temp {
+    text-align: center;
+    color: white;
+    background-color: #54acd4;
+    font-size: 1.5em;
+    padding: 20px;
+    margin: 80px;
+    border: black solid 2px;
+}
+
+footer {
+    color: white;
+    font-size: 0.8em;
+}
